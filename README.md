@@ -45,15 +45,14 @@ This plugin ports all 14 skills from the upstream repository:
 
 ## Installation
 
-Add the plugin to your Copilot CLI configuration:
+```bash
+gh copilot -- plugin install pedrozampiroli/copilot-superpowers
+```
 
-```jsonc
-// ~/.config/github-copilot/cli-plugins.json  (or your platform equivalent)
-{
-  "plugins": [
-    "pedrozampiroli/copilot-superpowers"
-  ]
-}
+## Updating
+
+```bash
+gh copilot -- plugin update pedrozampiroli-copilot-superpowers
 ```
 
 ---
