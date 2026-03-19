@@ -1,0 +1,8 @@
+{
+  "name": "pedrozampiroli/copilot-superpowers",
+  "version": "0.2.0",
+  "description": "Port do fluxo Superpowers (obra/superpowers) para o Copilot CLI. Inclui skills de brainstorming, TDD, debugging, planejamento, code review e mais.",
+  "skills": [
+    "skills"
+  ]
+}
